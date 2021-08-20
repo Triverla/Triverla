@@ -26,6 +26,14 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: Coding kills boredom
 - 📫 How to reach me: yusufbenaiah@gmail.com
 
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **Vue, VanillaJS**
+- Backend development using **PHP - Laravel, Yii2, NodeJs - ExpressJs, AdnonisJs**
+- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
+- Robust full-stack system design implementation
+- Mobile application development using **React Native**
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats

@@ -1,6 +1,5 @@
 <!-- Your title -->
-### Hi there 👋 
-### This is Benaiah Yusuf
+# Benaiah Yusuf
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

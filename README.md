@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hi, I'm Benaiah Yusuf.
+### Hi there 👋 
+### This is Benaiah Yusuf
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,18 +14,18 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Here's a little info about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Triverla/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Laravel Dynamic Responses];
-- 🌱 I’m currently learning Rust - The Tough Part 😁; 
-- 👯 I’m looking to collaborate on any fun-project 🤝;
-- 🤔 I’m thinking of better ways to solve existing problems;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Coding kills boredom;
-- 📫 How to reach me: yusufbenaiah@gmail.com;
+- 👨🏽‍💻 I’m currently working on [Laravel Dynamic Responses]
+- 🌱 I’m currently learning Rust - The Tough Part 😁
+- 👯 I’m looking forward to collaborating on any fun-project 🤝
+- 🤔 I’m thinking of better ways to solve existing problems
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: Coding kills boredom
+- 📫 How to reach me: yusufbenaiah@gmail.com
 
 **Languages and Tools:** 
 
@@ -39,11 +40,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
@@ -53,7 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors

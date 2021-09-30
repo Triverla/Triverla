@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Triverla/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Laravel Dynamic Responses]
-- 🌱 I’m currently learning Rust - The Tough Part 😁
+- 🌱 I’m currently learning Blockchain Programming 💰 
 - 👯 I’m looking forward to collaborating on any fun-project 🤝
 - 🤔 I’m thinking of better ways to solve existing problems
 - 💬 Ask me about anything, I am happy to help
@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Vue, VanillaJS**
+- Front-end development using **Vue, React**
 - Backend development using **PHP - Laravel, Yii2, NodeJs - ExpressJs, AdnonisJs**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Robust full-stack system design implementation

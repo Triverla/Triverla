@@ -18,8 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Triverla/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Laravel Dynamic Responses]
-- 🌱 I’m currently learning Blockchain Programming 💰 
+- 👨🏽‍💻 I’m currently building the future
+- 🌱 I’m getting better at problem solving 
 - 👯 I’m looking forward to collaborating on any fun-project 🤝
 - 🤔 I’m thinking of better ways to solve existing problems
 - 💬 Ask me about anything, I am happy to help
